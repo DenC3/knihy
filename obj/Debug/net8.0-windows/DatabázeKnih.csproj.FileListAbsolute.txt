@@ -18,3 +18,4 @@ H:\IT2A\Programování\DatabázeKnih\obj\Debug\net8.0-windows\refint\DatabázeKn
 H:\IT2A\Programování\DatabázeKnih\obj\Debug\net8.0-windows\DatabázeKnih.pdb
 H:\IT2A\Programování\DatabázeKnih\obj\Debug\net8.0-windows\DatabázeKnih.genruntimeconfig.cache
 H:\IT2A\Programování\DatabázeKnih\obj\Debug\net8.0-windows\ref\DatabázeKnih.dll
+H:\IT2A\Programování\DatabázeKnih\obj\Debug\net8.0-windows\DatabázeKnih.sourcelink.json
